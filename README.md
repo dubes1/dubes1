@@ -2,7 +2,9 @@
 ### My name is Naftali Dubin and I am a data scientist currently working at Edison Home Healthcare as the director of analytics and reporting  
 ### my passions are data visualization and  data analysis  
 ## How to reach me  
-[![Linkedin Badge](https://img.shields.io/badge/-naftalidubin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naftoli-dubin-6a386156/)](https://www.linkedin.com/in/naftoli-dubin-6a386156/)  [![Gmail Badge](https://img.shields.io/badge/-naftolidubin@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:naftolidubin@gmail.com)](mailto:naftolidubin@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-naftalidubin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/naftoli-dubin-6a386156/)](https://www.linkedin.com/in/naftoli-dubin-6a386156/)  [![Gmail Badge](https://img.shields.io/badge/-naftolidubin@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:naftolidubin@gmail.com)](mailto:naftolidubin@gmail.com)  
+### My Tableau Public Profile  
+[My Profile](https://public.tableau.com/app/profile/naftali.dubin5014#!/?newProfile=&activeTab=0)
 #  
 ## ⚡ Technologies that is use 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)  ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
